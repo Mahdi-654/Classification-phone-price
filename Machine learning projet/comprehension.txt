@@ -1,0 +1,11 @@
+accuracy = diagonale / totale
+
+precision(a) = tp/tp+fp
+
+rappel(a) = tp/tp+fn
+
+erreur = 1- accuracy
+
+regression
+OLS
+processing

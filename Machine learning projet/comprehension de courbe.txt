@@ -1,0 +1,56 @@
+expolarteur de données :
+
+# a. Histogramme pour visualiser la distribution de la variable cible 'price_range'
+
+
+# b. Matrice de corrélation pour observer les relations entre les caractéristiques
+
+
+# c. Visualisation de la distribution des téléphones selon la prise en charge de la double SIM (dual_sim)
+
+
+# d. Visualisation de la distribution des téléphones selon la prise en charge de la 4G (four_g)
+
+
+# e. Scatter plot pour observer la relation entre 'ram' et 'price_range' (quantitative)
+
+
+# f. Visualisation de la distribution de la variable 'three_g' (3G support)
+
+
+# Exemple : Box plot pour observer la répartition de la RAM selon les catégories de 'price_range'
+
+
+# Exemple : Distribution de 'battery_power' selon la catégorie de 'price_range'
+
+
+///////////////////////////////////////////////////////////////
+
+Métriques du Modèle :
+
+Mean Squared Error (MSE) : 0.1047
+R² Score : 0.9215
+
+Une MSE de 0.1047 indique que, en moyenne, les prédictions du modèle diffèrent de la vérité par environ 0.1047 unités au carré. Plus ce chiffre est bas, mieux c'est.
+
+
+
+
+
+Un R² de 0.9215 signifie que votre modèle explique environ 92.15% de la variance dans les données. Cela suggère que le modèle est très performant pour prédire la variable cible
+
+
+
+
+
+logistic regression
+matrix de evaluation classification de data (matix confusion)
+aacuary : se7a (les données s7a7)
+precision : de99a (de9aa mta les données)
+
+
+
+
+MSE, RMSE, MAE , R2
+
+taf : lab diffrenet partie
